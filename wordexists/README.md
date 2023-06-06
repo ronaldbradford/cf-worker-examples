@@ -2,6 +2,8 @@
 
 Example at: https://wordexists.ronald-ec2.workers.dev
 
+Usage:  https://wordexists.ronald-ec2.workers.dev/demo && https://wordexists.ronald-ec2.workers.dev/notaword
+
 ## v1
 
 * write me a cloudflare worker that can expose an api to return if a word exists in an existing list of words
